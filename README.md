@@ -24,7 +24,7 @@ Este repositório tem como objetivo centralizar exemplos práticos, projetos e d
 
 2. Navegue até a pasta:
    ```bash
-    cd java-learning
+    cd java
    ```
 
 3. Compile e execute os arquivos desejados com sua IDE preferida (IntelliJ, Eclipse, VSCode) ou via terminal.
