@@ -1,33 +1,35 @@
 # Java
 
-Este repositório tem como objetivo centralizar exemplos práticos, projetos e desafios voltados para o aprendizado da linguagem Java, desde os conceitos básicos até tópicos mais avançados.
+Este repositÃ³rio tem como objetivo centralizar exemplos prÃ¡ticos, projetos e desafios voltados para o aprendizado da linguagem Java, desde os conceitos bÃ¡sicos atÃ© tÃ³picos mais avanÃ§ados.
 
-## ?? Roadmap de Estudos
+## ðŸ§­ Roadmap de Estudos
 
-- `fundamentos/`: Sintaxe básica, variáveis, operadores, estruturas de controle.
-- `poo/`: Classes, objetos, herança, polimorfismo, encapsulamento.
-- `colecoes/`: Listas, sets, maps e boas práticas de iteração.
-- `excecoes/`: Tratamento e criação de exceções.
-- `threads/`: Concorrência básica com threads e executores.
+- `fundamentos/`: Sintaxe bÃ¡sica, variÃ¡veis, operadores, estruturas de controle.
+- `poo/`: Classes, objetos, heranÃ§a, polimorfismo, encapsulamento.
+- `colecoes/`: Listas, sets, maps e boas prÃ¡ticas de iteraÃ§Ã£o.
+- `excecoes/`: Tratamento e criaÃ§Ã£o de exceÃ§Ãµes.
+- `threads/`: ConcorrÃªncia bÃ¡sica com threads e executores.
 - `arquivos/`: Leitura e escrita de arquivos.
-- `gui-swing/`: Interfaces gráficas com Swing.
+- `gui-swing/`: Interfaces grÃ¡ficas com Swing.
 - `jdbc/`: Acesso a banco de dados usando JDBC.
-- `projetos/`: Projetos práticos para fixação dos conceitos.
-- `desafios/`: Problemas práticos e lógicos para exercitar o raciocínio.
+- `projetos/`: Projetos prÃ¡ticos para fixaÃ§Ã£o dos conceitos.
+- `desafios/`: Problemas prÃ¡ticos e lÃ³gicos para exercitar o raciocÃ­nio.
 
-## ?? Como executar
+## ðŸš€ Como executar
 
-1. Clone o repositório:
+1. Clone o repositÃ³rio:
    ```bash
    git clone https://github.com/seu-usuario/java-learning.git
+   ```
 
-2. Navegue até a pasta:
+2. Navegue atÃ© a pasta:
    ```bash
     cd java-learning
+   ```
 
 3. Compile e execute os arquivos desejados com sua IDE preferida (IntelliJ, Eclipse, VSCode) ou via terminal.
 
-## ?? Requisitos
+## ðŸ“¦ Requisitos
 
 - Java 17+ (recomendado)
 - Maven ou Gradle (opcional, para projetos mais estruturados)
