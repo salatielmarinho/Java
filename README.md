@@ -19,7 +19,7 @@ Este repositório tem como objetivo centralizar exemplos práticos, projetos e d
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/java-learning.git
+   git clone https://github.com/salatielmarinho/Java.git
    ```
 
 2. Navegue até a pasta:
